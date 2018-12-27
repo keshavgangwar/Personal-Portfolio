@@ -1,2 +1,1 @@
-# practice
-this project only for learning
+Personal Project
